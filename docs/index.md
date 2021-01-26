@@ -1,30 +1,26 @@
-## Welcome to GitHub Pages
+## Our project goals
 
 We want to make an application that will help young performers, they can upload their new tracks there and share them with everyone.
 
-### Markdown
+### Our ideas
+We will try to make an application in which all our users can upload and download songs, as well as leave comments and likes under the pictures.
 
-# Header 1
-## Header 2
-### Header 3
+### Tools we use 
+ 
+ In order to test and work with the project, we used the following applications.
+ 
+- React-Native
+- GitHub
+- Visual Studio
+- Zoom
+- MicrosoftTeams
+- Discord
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marek-rgb/NIMA47/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](https://engineerbabu.com/blog/wp-content/uploads/2018/06/Web-Native-Hybrid.jpg)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you want to cooperate with us or you have ideas you can call +0000000000
+Or find us at the HAMK University 
+
+
